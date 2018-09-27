@@ -1,0 +1,78 @@
+/* Hobby Style*/
+#Gaming {
+  width: 100%;
+  display: block;
+  background-color: rgba(51, 51, 51, .5);
+}
+
+#Crafting {
+  width: 100%;
+  margin-top: -22px;
+  text-align:  right;
+}
+
+#Programming {
+  width: 100%;
+  display: block;
+  background-color: rgba(51, 51, 51, .5);
+}
+
+#WOW{
+  height: 25%;
+  width: 25%;
+}
+
+#HOTS{
+  height: 70%;
+  width: 70%;
+  float: right;
+}
+
+#Rust{
+  height: 40%;
+  width: 40%;
+  float: center;
+}
+
+#CIV {
+  height: 30%;
+  width: 30%;
+  float: right;
+}
+
+#Controller{
+  float: center;
+  width: 30%;
+  height: 30%;
+}
+
+#Game{
+  width: 100%;
+  height: 100%;
+  float: right;
+}
+
+#Wolf{
+  width: 50%;
+  height: 50%;
+}
+
+table{
+  width: 100%;
+}
+
+td {
+  width:10%;
+}
+
+th {
+  width: 10%;
+}
+
+#Align{
+  text-align: right;
+}
+
+#TXT {
+  margin-top: -80px;
+}
