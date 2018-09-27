@@ -8,7 +8,7 @@ ul{
   margin-right: 100px;
 }
 
-a{
+#NAV{
   font-size:20px;
   font-family: 'Amatic SC';font-size: 33px;
   font-weight: bold;
@@ -62,9 +62,9 @@ body{
   margin-top: -30px;
   font-size: 15px;
   font-weight: normal;
-  margin-left: -10px;
+  margin-left: 2px;
   text-decoration: underline;
-  margin-right: -10px;
+  margin-right: 2px;
 }
 
 #Artstation:hover{
