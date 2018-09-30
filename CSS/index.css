@@ -8,3 +8,9 @@ th, td {
 }
 
 tr:hover {background-color: rgba(232, 253, 255, 0.5);}
+
+#Kitty{
+  width: 20%;
+  padding: 20px;
+  float: left;
+}
